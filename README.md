@@ -13,4 +13,4 @@
 - AWS 가입진행 및 과금알람설정
   - ec2
 ## 21.08.24
-- [AWS란?]
+- [AWS란?](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/AWS_study.md)
