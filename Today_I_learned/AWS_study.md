@@ -5,3 +5,6 @@
 - 배포가 용이하여 배포용으로도 사용함.
 
 - 단점은 역시 비용이 굉장히 많이 나간다는 점
+
+
+-[출처](https://aws.amazon.com/ko/what-is-cloud-computing/)
