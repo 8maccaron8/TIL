@@ -9,7 +9,7 @@
 - [Github 튜토리얼, TIL 만들기 시작](https://aeda.tistory.com/8)
 ## 21.08.24
 - [GTQ]
-- (![image](https://user-images.githubusercontent.com/88295944/130646363-e0004a02-421d-4d1b-9bab-5914a45e6133.png))
+- ![image](https://user-images.githubusercontent.com/88295944/130646363-e0004a02-421d-4d1b-9bab-5914a45e6133.png)
 - AWS 가입진행 및 과금알람설정
   - ec2
 ## 21.08.24
