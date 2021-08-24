@@ -7,4 +7,4 @@
 - 단점은 역시 비용이 굉장히 많이 나간다는 점
 
 
--[출처](https://aws.amazon.com/ko/what-is-cloud-computing/)
+- [출처](https://aws.amazon.com/ko/what-is-cloud-computing/)
