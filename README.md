@@ -14,3 +14,5 @@
   - ec2
 ## 21.08.24
 - [AWS란?](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/AWS_study.md)
+
+## 21.08.25
