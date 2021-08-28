@@ -22,3 +22,6 @@
 ## 21.08.26
 - GTQ 자격증 연습
 - ![image](https://user-images.githubusercontent.com/88295944/131136554-0ff93862-5a37-4612-9ddf-ab94af92ee7d.png)
+
+## 21.08.27
+- GTQ 자격증 시험
