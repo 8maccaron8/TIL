@@ -19,7 +19,7 @@
 - GTQ 자격증 연습
 
 ## 21.08.24
-- [AWS란?](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/AWS_study.md)
+- [AWS란?](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/AWS_study.md)
 
 ## 21.08.24
 - [GTQ]
