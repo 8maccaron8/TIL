@@ -14,3 +14,6 @@
   7. RMSProp
   8. AdaMax
   9. Nadam
+ 
+ -![image](https://user-images.githubusercontent.com/88295944/131448438-4e7652fc-bb7a-49b3-8668-39edabc86666.png)
+
