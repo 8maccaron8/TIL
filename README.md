@@ -2,8 +2,8 @@
 
 ## 21.08.31
 - 이론 공부
-  - 하이퍼 파라미터(https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/hyperparmeter.md)
-  - 옵티마이(https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/optimizer.md)
+  - [하이퍼 파라미터](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/hyperparmeter.md)
+  - [옵티마이저](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/optimizer.md)
 
 ## 21.08.28
 - 공모전 데이터 overview
