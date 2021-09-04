@@ -2,7 +2,7 @@
 
 ## 21.09.03
 - 이론 공부
-  - [파이토치](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/hyperparmeter.md)
+  - [파이토치](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/pytorch.md)
 ## 21.08.31
 - 이론 공부
   - [하이퍼 파라미터](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/hyperparmeter.md)
