@@ -1,5 +1,9 @@
 # TIL
 
+## 21.09.08
+- 이론 공부
+  - [손실함수]()
+ 
 ## 21.09.03
 - 이론 공부
   - [파이토치](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/pytorch.md)
