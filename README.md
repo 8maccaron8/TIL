@@ -2,7 +2,7 @@
 
 ## 21.09.08
 - 이론 공부
-  - [손실함수]()
+  - [손실함수](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/Loss_function.md)
  
 ## 21.09.03
 - 이론 공부
