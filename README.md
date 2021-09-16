@@ -1,5 +1,7 @@
 # TIL
 
+## 21.09.10
+
 ## 21.09.08
 - 이론 공부
   - [Learnign rate](https://github.com/8maccaron8/TIL/blob/main/Today_I_learned/theory/Learning%20rate.md)
