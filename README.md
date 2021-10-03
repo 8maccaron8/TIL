@@ -1,5 +1,8 @@
 # TIL
 
+## 21.10.02
+- Code review (customer churn expectation)
+
 
 ## 21.09.08
 - 이론 공부
