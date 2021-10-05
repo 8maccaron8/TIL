@@ -1,7 +1,7 @@
 # TIL
 
 ## 21.10.02
-- Code review (customer churn expectation)
+- Code review (customer churn expectations)
 
 
 ## 21.09.08
