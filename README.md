@@ -1,4 +1,6 @@
 # TIL
+##21.10.07
+- 백준 코드 데스트시작!
 
 ## 21.10.02
 - Code review (customer churn expectations)
